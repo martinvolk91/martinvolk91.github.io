@@ -8,7 +8,7 @@ Here you can find descriptions/links to some of my projects. They are grouped ba
 
 ### GitHub projects:
 [All repositories](https://github.com/martinvolk91?tab=repositories)
-- [Time-Space maps](https://github.com/martinvolk91/time-space-maps)
+- [Time-Space maps](https://github.com/martinvolk91/time-space-maps) -> [click for demo](https://martinvolk91.github.io/time-space-maps/)
 - [Forex trading neural network trained by genetic algorithms](https://github.com/martinvolk91/forex-nn-es-java)
 
 ### Kaggle.com:
