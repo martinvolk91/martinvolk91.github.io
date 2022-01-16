@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation: # accepts {file, title, url, icon, sidebaricon}
   - { file: "index.md" , title: "About me" }
   - { file: "projects.md", title: "Projects" }
-  - { file: "blog.html", title: "Blog" }
+#  - { file: "blog.html", title: "Blog" }
 
 external: # shows a footer with social links - for available icons see fontawesome.com/icons
   - { title: Mail, icon: envelope, url: "mailto:martinvolk91@gmail.com" }
   - { title: Github, icon: github, url: "https://github.com/martinvolk91" }
-  - { title: Subscribe, icon: rss, url: "/feed.xml" }
+  - { title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/martin-volk-43bb0061/" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
